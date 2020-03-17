@@ -1,0 +1,9 @@
+com\bjitic\p2p\model\loan\IncomeRecord.class
+com\bjitic\p2p\model\user\User.class
+com\bjitic\p2p\service\loan\BidInfoService.class
+com\bjitic\p2p\model\loan\LoanInfo.class
+com\bjitic\p2p\model\user\FinanceAccount.class
+com\bjitic\p2p\service\user\UserService.class
+com\bjitic\p2p\service\loan\LoanInfoService.class
+com\bjitic\p2p\model\loan\BidInfo.class
+com\bjitic\p2p\model\loan\RechargeRecord.class
